@@ -28,7 +28,7 @@ education:
   - course: PhD in remote sensing
     institution: Wuhan University
     year: 2017 - now
-  - course: BSc in surveying and mapping engineering
+  - course: Bachelor's degree in surveying and mapping engineering
     institution: Wuhan University
     year: 2013 - 2017
 
