@@ -10,7 +10,7 @@ authors:
 - Linwei Yue
 - Tongwen Li
 - Huanfeng Shen
-- Linwei Yue
+- Liangpei Zhang
  
 # Author notes (optional)
 #author_notes:
@@ -18,11 +18,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-7-20T00:00:00Z"
+date: "2020-07-20T00:00:00Z"
 doi: "https://doi.org/10.1016/j.isprsjprs.2020.05.018"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-7-20T00:00:00Z"
+publishDate: "2020-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,6 +35,7 @@ publication: In *ISPRS Journal of Photogrammetry and Remote Sensing*
 publication_short: In *ISPRS Journal of Photogrammetry and Remote Sensing*
 
 abstract: Satellite-based retrieval has become a popular PM2.5 monitoring method. To improve the retrieval performance, multiple variables are usually introduced as auxiliary variables, in addition to aerosol optical depth (AOD). The different kinds of variables are usually at different resolutions, varying from sub-kilometer to dozens of kilometers. Generally speaking, when undertaking the retrieval, the variables at different resolutions are resampled to the same resolution as the AOD product to ensure scale consistency (single-scale retrieval). However, a drawback of doing this is that the information contained within the different resolutions (scales) is discarded. To fully utilize the information contained in the different scales, a dual-scale retrieval approach is proposed in this paper. In the first stage, the variables which influence PM2.5 concentration at a large scale are used for PM2.5 retrieval at a coarse resolution. Then, in the second stage, the variables which affect PM2.5 distribution at a finer scale are used for the further PM2.5 retrieval at a high resolution (sub-km level resolution), with the retrieved low-resolution PM2.5 from the first stage also acting as input. In this study, four different regression models were adopted to test the performance of the dual-scale retrieval approach at both daily and annual scales: multiple linear regression (MLR), geographically weighted regression (GWR), random forest (RF), and the generalized regression neural network (GRNN). Compared with the traditional single-scale retrieval approach, the proposed dual-scale retrieval approach can achieve PM2.5 mapping at a finer resolution and with a higher accuracy. Dual-scale retrieval can utilize the information contained in different scales, thus achieving an improvement in both resolution and retrieval accuracy. The proposed approach has the potential to be used for the generation of quantitative remote sensing products in various fields, and will promote the quality improvement of these quantitative remote sensing products.
+
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
