@@ -13,9 +13,12 @@ main:
   - name: Recent work
     url: '#post'
     weight: 30
-  - name: Featured work
-    url: '#featured'
-    weight: 40
+  #- name: Featured work
+ #   url: '#featured'
+ #   weight: 40
+  - name: Others
+    url: '#others'
+    weight: 50   
   - name: Awards
     url: '#awards'
     weight: 50  
