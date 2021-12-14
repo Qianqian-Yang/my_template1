@@ -18,9 +18,9 @@ main:
  #   weight: 40
   - name: Others
     url: '#others'
-    weight: 50   
+    weight: 40   
   - name: Awards
-    url: '#awards'
+    url: '#slides'
     weight: 50  
   - name: Contact
     url: '#contact'
