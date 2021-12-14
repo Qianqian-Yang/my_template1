@@ -1,6 +1,6 @@
 ---
 title: Global air quality change during COVID-19 a synthetic analysis of satellite, reanalysis and ground station data
-subtitle: Coronavirus disease 2019 (COVID-19) pandemic has led to a rare reduction in human activities. In such a background, data from ground-based environmental stations, satellites, and reanalysis materials are utilized to conduct a comprehensive analysis of the global air quality changes during the COVID-19 outbreak.
+subtitle: 
 
 # Summary for listings and search engines
 summary: 
@@ -42,13 +42,13 @@ authors:
 - Huanfeng Shen
 - Liangpei Zhang
 
-tags:
-- Academic
-- 开源
+#tags:
+#- Academic
+#- 开源
 
-categories:
-- Demo
-- 教程
+#categories:
+#- Demo
+#- 教程
 ---
 
 ## Highlights:
@@ -76,6 +76,6 @@ Our study reveals the interactions between air pollution and human activities wi
 
 - 👉 [**Read the full article**](https://iopscience.iop.org/article/10.1088/1748-9326/ac1012)
 - 📚 [**Cite this article**](https://iopscience.iop.org/export?articleId=1748-9326/16/7/074052&doi=10.1088/1748-9326/ac1012&exportFormat=iopexport_bib&exportType=abs&navsubmit=Export%20abstract)
-- 💬 [Contact the **authors**](#contact) 
+- 💬 [Contact the **authors**](https://happy-poitras-e5a301.netlify.app/#contact) 
 
-😀 Thanks for your reading! Have a nice day! 😀 
+## 😀 Thanks for your reading! Have a nice day! 😀 
