@@ -3,16 +3,16 @@ title: Global air quality change during COVID-19: A synthetic analysis of satell
 subtitle: Coronavirus disease 2019 (COVID-19) pandemic has led to a rare reduction in human activities. In such a background, data from ground-based environmental stations, satellites, and reanalysis materials are utilized to conduct a comprehensive analysis of the global air quality changes during the COVID-19 outbreak. 
 
 # Summary for listings and search engines
-# summary: 
+#summary: 
 
 # Link this post with a project
-# projects: []
+#projects: []
 
 # Date published
 date: "2021-07-14T00:00:00Z"
 
 # Date updated
-lastmod: "2021-7-14T00:00:00Z"
+lastmod: "2021-07-14T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://postimg.cc/Lhjn4pM0)'
   focal_point: ""
   placement: 4
   preview_only: false
@@ -59,6 +59,7 @@ authors:
 4. Extent of human activities impact on air quality varied with response speed of city.
 
 ## Abstracts: 
+
 Coronavirus disease 2019 (COVID-19) pandemic has led to a rare reduction in human activities. In such a background, data from ground-based environmental stations, satellites, and reanalysis materials are utilized to conduct a comprehensive analysis of the global air quality changes during the COVID-19 outbreak. The results showed that under the impact of the COVID-19 outbreak, a significant decrease in particulate matter (PMx) and nitrogen dioxide (NO2) occurred in more than 40% of the world's land area, with NO2 (PMx) decreasing by nearly 30% (nearly 20%). The mobility, meteorological factors, and the response speed to COVID-19 outbreaks were examined. It was further found that in quick-response cities, lockdowns produced a sharp decline in mobility and had a dominant impact on air quality. In contrast, in slow-response cities, mobility dropped gradually since the confirmation of the first COVID-19 case (FCC) and he impact of the FCC, lockdowns, and meteorological factors were comparable.
 {{< figure src="https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/16/7/074052/revision2/erlac1012f1_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1640080602&Signature=usmd%2B9lqJxzWvJWpH%2BYjGG7GKHg%3D" title="Flowchart of the work (symbols for different places and meteorological factors are provided by iSlide)." >}}
 
