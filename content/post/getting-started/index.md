@@ -1,6 +1,6 @@
 ---
-title: Global air quality change during COVID-19
-subtitle: Coronavirus disease 2019
+title: Global air quality change during COVID-19: a synthetic analysis of satellite, reanalysis and ground station data
+subtitle: Coronavirus disease 2019 (COVID-19) pandemic has led to a rare reduction in human activities. In such a background, data from ground-based environmental stations, satellites, and reanalysis materials are utilized to conduct a comprehensive analysis of the global air quality changes during the COVID-19 outbreak. The results showed that under the impact of the COVID-19 outbreak, a significant decrease in particulate matter (PMx) and nitrogen dioxide (NO2) occurred in more than 40% of the world's land area, with NO2 (PMx) decreasing by ∼30% (∼20%). The mobility, meteorological factors, and the response speed to COVID-19 outbreaks were examined. It was further found that in quick-response cities, lockdowns produced a sharp decline in mobility and had a dominant impact on air quality. In contrast, in slow-response cities, mobility dropped gradually since the confirmation of the first COVID-19 case (FCC) and he impact of the FCC, lockdowns, and meteorological factors were comparable.
 
 # Summary for listings and search engines
 summary: 
