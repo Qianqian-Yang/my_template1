@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://postimg.cc/Lhjn4pM0)'
   focal_point: ""
-  placement: 4
+  placement: 2
   preview_only: false
 
 authors:
@@ -42,13 +42,13 @@ authors:
 - Huanfeng Shen
 - Liangpei Zhang
 
-#tags:
-#- Academic paper
-#- published
+tags:
+- Academic
+- 开源
 
-#categories:
-#- full article
-#- 
+categories:
+- Demo
+- 教程
 ---
 
 ## Highlights:
