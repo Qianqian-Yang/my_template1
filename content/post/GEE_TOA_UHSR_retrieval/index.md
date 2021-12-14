@@ -1,6 +1,6 @@
 ---
-title: Intra-urban PM2.5 estimation from top-of-atmosphere reflectance with machine learning: theories, methods, and applications
-subtitle: 
+title: Intra-urban PM2.5 estimation from top-of-atmosphere reflectance with machine learning
+subtitle:  theories, methods, and applications
 
 # Summary for listings and search engines
 summary: 
