@@ -10,11 +10,11 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
+  - name: Recent work
+    url: '#post'
+    weight: 30
   - name: Featured work
     url: '#featured'
-    weight: 30
-  - name: Presentations
-    url: '#presentations'
     weight: 40
   - name: Awards
     url: '#awards'
