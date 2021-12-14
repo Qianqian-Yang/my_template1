@@ -46,7 +46,7 @@ links:
 - name: Article Link
   url: https://www.sciencedirect.com/science/article/pii/S0269749119348973
 
-url_pdf: 'https://reader.elsevier.com/reader/sd/pii/S0269749119348973?token=E9C6CA399166E6A1D922F163CCC337DABB00CF01651018E1A4D22C3EAA0495428124F9DA59557DA46BCE473A93994692&originRegion=us-east-1&originCreation=20211214084652
+url_pdf: 'https://reader.elsevier.com/reader/sd/pii/S0269749119348973?token=E9C6CA399166E6A1D922F163CCC337DABB00CF01651018E1A4D22C3EAA0495428124F9DA59557DA46BCE473A93994692&originRegion=us-east-1&originCreation=20211214084652'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
