@@ -1,12 +1,12 @@
 ---
-title: Global air quality change during COVID-19: A synthetic analysis of satellite, reanalysis and ground station data
-subtitle: Coronavirus disease 2019 (COVID-19) pandemic has led to a rare reduction in human activities. In such a background, data from ground-based environmental stations, satellites, and reanalysis materials are utilized to conduct a comprehensive analysis of the global air quality changes during the COVID-19 outbreak. 
+title: Global air quality change during COVID-19
+subtitle: Coronavirus disease 2019
 
 # Summary for listings and search engines
-#summary: 
+summary: 
 
 # Link this post with a project
-#projects: []
+projects: []
 
 # Date published
 date: "2021-07-14T00:00:00Z"
