@@ -18,14 +18,14 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-10-12T13:00:00Z"
-date_end: "2021-10-12T15:00:00Z"
-all_day: false
+#date_end: "2021-10-12T15:00:00Z"
+#all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-10-12T00:00:00Z"
 
-authors: []
-tags: []
+#authors: []
+#tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -34,7 +34,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
@@ -60,5 +60,6 @@ url_video: ""
 #- example
 ---
 
-This is her fourth year in a row to receive this scholarship.
-She probably won't get this scholarship next year, pity😔
+- This is her fourth year in a row to receive this scholarship.
+
+- She probably won't get this scholarship next year, pity😔
