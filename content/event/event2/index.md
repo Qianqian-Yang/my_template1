@@ -12,8 +12,7 @@ location: Changsha, Hunan
 #  postcode: '94305'
 #  country: United States
 
-summary: Qianqian yang attend the 2nd National Geoscience Graduate Forum. Her report "High spatial resolution PM2.5 concentration mapping method
-& Research on global air quality changes during the new crown epidemic " won the Excellent Report Award.  
+summary: Qianqian yang attend the 2nd National Geoscience Graduate Forum. Her report "High spatial resolution PM2.5 concentration mapping method and Research on global air quality changes during the new crown epidemic " won the Excellent Report Award.  
 abstract: 
 
 # Talk start and end times.
@@ -35,7 +34,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
