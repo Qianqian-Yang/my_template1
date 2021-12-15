@@ -16,12 +16,12 @@ main:
   #- name: Featured work
  #   url: '#featured'
  #   weight: 40
-  - name: Others
-    url: '#others'
+  - name: News
+    url: '#events'
     weight: 40   
-  - name: Awards
-    url: '#slides'
-    weight: 50  
+  #- name: Others
+  #  url: '#slides'
+   # weight: 50  
   - name: Contact
     url: '#contact'
     weight: 60
@@ -29,5 +29,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/resume.pdf
-    weight: 60
+    url: uploads/CV.pdf
+    weight: 70
