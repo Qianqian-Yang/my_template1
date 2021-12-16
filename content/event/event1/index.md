@@ -1,7 +1,7 @@
 ---
 title: Won the National Scholarship for 2021!
 
-event: Scholarship 
+event: National Scholarship for 2021
 event_url: http://gsunion.sgg.whu.edu.cn/notice/1749.html
 
 #location: 
@@ -17,7 +17,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-12T13:00:00Z"
+#date: "2021-10-12T13:00:00Z"
 #date_end: "2021-10-12T15:00:00Z"
 #all_day: false
 
