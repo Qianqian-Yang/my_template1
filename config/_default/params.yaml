@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: qianqian_yang@whu.edu.cn
-phone: +86 13720174240
+# phone: +86 13720174240
 address:
   street: Wuhan University
   city: Wuhan
@@ -29,14 +29,14 @@ address:
   postcode: '430079'
   country: China
   country_code: CHN
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Room 105 of Building 39
+#coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
+directions: School of Geodesy and Geomatics
 office_hours:
   - 'Monday to Friday 9:30 to 18:30'
   - 'Sunday 15:00 to 18:00'
-appointment_url: 'https://en.whu.edu.cn/'
+# appointment_url: 'https://en.whu.edu.cn/'
 #contact_links:
 #  - icon: twitter
 #    icon_pack: fab
