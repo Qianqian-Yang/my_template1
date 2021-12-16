@@ -69,6 +69,5 @@ highlight_name: true
 
 Qianqian Yang is a PhD student of remote sensing in School of Geodesy and Geomatics, Wuhan University. Her research interests include atmospheric remote sensing, air pollution, and machine learning. She currently works on the ultra-high-spatial-resolution retrieval of PM2.5 concentration from satellite observations, which can be utilized for intra-urban pollution monitoring. 
 
-Welcome to academic communications in any forms.
+# Welcome to academic communications in any forms.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
