@@ -18,9 +18,9 @@ bio: My research interests include atmospheric remote sensing, air pollution, ma
 
 # Interests to show in About widget
 interests:
-- atmospheric remote sensing
-- air pollution
-- machine learning
+- Atmospheric remote sensing
+- Air pollution
+- Machine learning
 
 # Education to show in About widget
 education:
