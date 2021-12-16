@@ -16,7 +16,7 @@ main:
   #- name: Featured work
  #   url: '#featured'
  #   weight: 40
-  - name: News
+  - name: Recent activities
     url: '#events'
     weight: 40   
   #- name: Others
